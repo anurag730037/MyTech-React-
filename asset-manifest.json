@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyTech-React-/static/css/main.5d026800.css",
+    "main.js": "/MyTech-React-/static/js/main.b0491d5c.js",
+    "static/js/453.a0f81d97.chunk.js": "/MyTech-React-/static/js/453.a0f81d97.chunk.js",
+    "static/media/deve.png": "/MyTech-React-/static/media/deve.774706537476a52343cf.png",
+    "static/media/software.jpg": "/MyTech-React-/static/media/software.c540fc1c42596cabc2e3.jpg",
+    "static/media/website.jpg": "/MyTech-React-/static/media/website.4fff1b8ace25ce6ae9c2.jpg",
+    "static/media/App.jpg": "/MyTech-React-/static/media/App.12b7f3044aaeb8f3e9a1.jpg",
+    "static/media/digital.jpg": "/MyTech-React-/static/media/digital.062c2039d40797e1c581.jpg",
+    "static/media/marketing.jpg": "/MyTech-React-/static/media/marketing.56f8bdb664763a0d0e0d.jpg",
+    "static/media/about.png": "/MyTech-React-/static/media/about.4ef4b03a1df00be142c5.png",
+    "static/media/android.jpg": "/MyTech-React-/static/media/android.6933ec7a04812af13da5.jpg",
+    "index.html": "/MyTech-React-/index.html",
+    "main.5d026800.css.map": "/MyTech-React-/static/css/main.5d026800.css.map",
+    "main.b0491d5c.js.map": "/MyTech-React-/static/js/main.b0491d5c.js.map",
+    "453.a0f81d97.chunk.js.map": "/MyTech-React-/static/js/453.a0f81d97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d026800.css",
+    "static/js/main.b0491d5c.js"
+  ]
+}
